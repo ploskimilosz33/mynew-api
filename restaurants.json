@@ -1,0 +1,408 @@
+[
+  {
+    "placeId": 1,
+    "name": "KruKam",
+    "address": "Żwirki i Wigury 4/19, Gdansk, Poland, 80-463",
+    "location": {
+      "lng": 18.609871454957226,
+      "lat": 54.391134403575045
+    },
+    "phone": "+48323070050",
+    "thumbnail": "https://images.happycow.net/venues/1024/31/65/hcmp316592_1782700.jpeg",
+    "type": "Health Store",
+    "category": 0,
+    "rating": 5,
+    "description": "Mały sklep ze zdrową żywnością oferujący .Open Mon-Fri 09:00-18:00, Sat 10:00-14:00. Closed Sun..",
+    "pictures": [
+      "https://images.happycow.net/venues/1024/31/65/hcmp316592_1792222.jpeg",
+      "https://images.happycow.net/venues/1024/31/65/hcmp316592_1799943.jpeg",
+      "https://images.happycow.net/venues/1024/31/65/hcmp316592_1799944.jpeg"
+    ],
+    "website": "krukam.pl",
+    "facebook": "https://www.facebook.com/krukampl/"
+  },
+  {
+    "placeId": 2,
+    "name": "Manna 68",
+    "address": "Świętego Ducha 68, Gdansk, Poland, 80-834",
+    "location": {
+      "lng": 18.66501,
+      "lat": 54.35027
+    },
+    "phone": "+48583523186",
+    "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipOde67iCcuDZBeq7qG50jvdqXZVCf9Fo3D2rWkg=s680-w680-h510",
+    "type": "Veg Store",
+    "category": 2,
+    "rating": 4.5,
+    "vegan": 1,
+    "vegOnly": 1,
+    "link": "https://www.happycow.net/reviews/veganie-paris-54367",
+    "description": "Wegańska restauracja serwująca panini, wrapy, makarony, wege burgery i zupy dnia. Otwarte pon. 09:00-22:00, wt. 12:00-21:00, śr.-pt. 12:00-22:00, sob. 09:00-22:00, niedz. 09:00-21:00.",
+    "pictures": [
+      "https://images.happycow.net/venues/1024/12/04/hcmp120495_1195520.jpeg",
+      "https://images.happycow.net/venues/1024/12/04/hcmp120495_852510.jpeg",
+      "https://images.happycow.net/venues/1024/12/04/hcmp120495_1512448.jpeg",
+      "https://images.happycow.net/venues/1024/12/04/hcmp120495_402142.jpeg"
+    ],
+    "website": "manna68.pl",
+    "facebook": "https://www.facebook.com/avocadopestka/"
+  },
+  {
+    "placeId": 3,
+    "name": "SpożyVczak wegański",
+    "address": "Grażyny 12, 80-438 Gdańsk",
+    "location": {
+      "lng": 18.609769626094785,
+      "lat": 54.3851435848531
+    },
+    "phone": "+48722793898",
+    "thumbnail": "https://images.happycow.net/venues/500/46/49/hcmp46499_664650.jpeg",
+    "type": "Veg Store",
+    "category": 0,
+    "rating": 5,
+    "description": "Otwarte pon. 09:00-22:00, wt. 12:00-21:00, śr.-pt. 12:00-22:00, sob. 09:00-22:00, niedz. 09:00-21:00.",
+    "pictures": [
+      "https://scontent-waw1-1.xx.fbcdn.net/v/t39.30808-6/408748288_360095479959205_2907224053589386936_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=783fdb&_nc_ohc=go7rZYEvhtgAX9nAli5&_nc_ht=scontent-waw1-1.xx&oh=00_AfAlwXYWJor2jy7q0nAUMLvOUFWxEqUXVUfAgUzhoVRybw&oe=65BCB1EA"
+    ],
+    "website": "http://spozyvczak.com/",
+    "facebook": "https://www.facebook.com/patisongdansk"
+  },
+  {
+    "placeId": 4,
+    "name": "ekoAleja",
+    "address": "aleja Jana Pawła II 5/3, 80-462 Gdańsk",
+    "location": {
+      "lng": 18.607772792705823,
+      "lat": 54.40449792950336
+    },
+    "phone": "+48662219873",
+    "thumbnail": "",
+    "type": "Health Store",
+    "category": 0,
+    "rating": 4.3,
+    "description": "Otwarte pon. 09:00-22:00, wt. 12:00-21:00, śr.-pt. 12:00-22:00, sob. 09:00-22:00, niedz. 09:00-21:00.",
+    "pictures": [
+      "https://scontent-waw1-1.xx.fbcdn.net/v/t39.30808-6/408748288_360095479959205_2907224053589386936_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=783fdb&_nc_ohc=go7rZYEvhtgAX9nAli5&_nc_ht=scontent-waw1-1.xx&oh=00_AfAlwXYWJor2jy7q0nAUMLvOUFWxEqUXVUfAgUzhoVRybw&oe=65BCB1EA"
+    ],
+    "website": "http://ekoaleja.eu/",
+    "facebook": ""
+  },
+  {
+    "placeId": 5,
+    "name": "ECO FOR LIFE 24 Żywność Ekologiczna Naturalna Suszone Owoce Żeń-Szeń Tribiotyk",
+    "address": "aleja Jana Pawła II 4B, 80-462 Gdańsk",
+    "location": {
+      "lng": 18.598350126452566,
+      "lat": 54.393836743865315
+    },
+    "phone": "+48533211013",
+    "thumbnail": "",
+    "type": "Health Store",
+    "category": 0,
+    "rating": 1,
+    "description": "EcoForLife24 to miejsce, w którym znajdziesz najlepszą, ekologiczną, zdrową żywność",
+    "pictures": [""],
+    "website": "",
+    "facebook": ""
+  },
+  {
+    "placeId": 6,
+    "name": "Nie Miesny",
+    "address": "Jaskolcza 24, Gdansk, Poland",
+    "location": {
+      "lng": 18.661212454954285,
+      "lat": 54.34320881819369
+    },
+    "phone": "48-785117556",
+    "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-s/16/1f/37/2d/shish-kebab.jpg",
+    "type": "veg-options",
+    "category": 0,
+    "rating": 4,
+    "description": "Serwuje mięso, dostępne opcje wegańskie.",
+    "pictures": [
+      "https://scontent-waw1-1.xx.fbcdn.net/v/t39.30808-6/408748288_360095479959205_2907224053589386936_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=783fdb&_nc_ohc=go7rZYEvhtgAX9nAli5&_nc_ht=scontent-waw1-1.xx&oh=00_AfAlwXYWJor2jy7q0nAUMLvOUFWxEqUXVUfAgUzhoVRybw&oe=65BCB1EA"
+    ],
+    "price": null,
+    "website": "mukabar.pl",
+    "facebook": "https://www.facebook.com/niemiesny"
+  },
+  {
+    "placeId": 7,
+    "name": "Avocado Vegan Shop",
+    "address": "Wajdeloty 24, 80-437 Gdańsk",
+    "location": {
+      "lng": 18.610902261779973,
+      "lat": 54.38331590795496
+    },
+    "phone": "+48570325556",
+    "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-s/1b/0f/49/38/avocado-vegan-spot.jpg",
+    "type": "Health Store",
+    "category": 0,
+    "rating": 1,
+    "description": "EcoForLife24 to miejsce, w którym znajdziesz najlepszą, ekologiczną, zdrową żywność",
+    "pictures": [
+      "https://s.inyourpocket.com/gallery/292614.jpg",
+      "https://s.inyourpocket.com/gallery/292610.jpg"
+    ],
+    "website": "http://www.avocadovegan.pl/",
+    "facebook": ""
+  },
+  {
+    "placeId": 8,
+    "name": "Faloviec / kuchnia roślinna",
+    "address": "Obrońców Wybrzeża 2, 80-398 Gdańsk",
+    "location": {
+      "lng": 18.59895376557301,
+      "lat": 54.41086686740615
+    },
+    "phone": "+48883777328",
+    "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-s/17/ae/6a/ae/kuchnia-roslinna.jpg",
+    "type": "vegan",
+    "category": 0,
+    "rating": 4.5,
+    "description": "Duże porcje wegańskich potraw i desery serwowane w prostej restauracji z tarasem.",
+    "pictures": [],
+    "website": "https://www.faloviec.pl/restaurants/faloviec",
+    "facebook": ""
+  },
+  {
+    "placeId": 9,
+    "name": "Hotel Gdańsk Boutique",
+    "address": "9 Szafarnia, Gdansk, Poland, 80-755",
+    "location": {
+      "lng": 18.66067799728387,
+      "lat": 54.34925630352877
+    },
+    "phone": "+48-583001700",
+    "thumbnail": "",
+    "type": "veg-options",
+    "category": 0,
+    "rating": 3,
+    "vegOnly": 1,
+    "link": "https://www.hoteldal.pl/gdansk/images/2017/05/30/obiadokolacja3.jpg",
+    "description": "Serwuje mięso, dostępne opcje wegańskie. Lokal oferuje dwa dania wegetariańskie, w tym risotto i sałatkę, które na życzenie mogą zostać przyrządzone w wersji wegańskiej. Open Mon-Sun 12:00-22:00.",
+    "pictures": [""],
+    "price": null,
+    "website": "hotelgdansk.com.pl",
+    "facebook": "https://www.facebook.com/HotelGdanskBoutique"
+  },
+  {
+    "placeId": 10,
+    "name": "Przyganiał Kocioł Wokowi",
+    "address": "Lakowa, 10, Gdansk, Poland, 80-743",
+    "location": {
+      "lng": 18.66233199728354,
+      "lat": 54.34340729269321
+    },
+    "phone": "48-721108392",
+    "thumbnail": "https://images.bolt.eu/store/2022/2022-10-31/2ee01ad1-cebf-47c6-ab94-95026e70ad51.jpeg",
+    "type": "veg-options",
+    "category": 0,
+    "rating": 4,
+    "vegOnly": 1,
+    "link": "",
+    "description": "Serwuje mięso, dostępne opcje wegańskie. Mała azjatycka restauracja fusion oferująca wegańskie zupy i dania z makaronem. Czynne od poniedziałku do niedzieli w godzinach 12:00-21:00.",
+    "pictures": [""],
+    "price": null,
+    "website": "",
+    "facebook": "https://www.facebook.com/przyganialkociol"
+  },
+  {
+    "placeId": 11,
+    "name": "Lee's Chinese",
+    "address": "Kartuska 20, Gdansk, Poland, 80-104",
+    "location": {
+      "lng": 18.633524,
+      "lat": 54.350548
+    },
+    "phone": "58 305 29 32",
+    "thumbnail": "https://images.happycow.net/venues/400x400/42/35/hcmp42352_314836.jpeg",
+    "type": "veg-options",
+    "category": 1,
+    "rating": 4.5,
+    "veg-options": 1,
+    "description": "Serwuje mięso, dostępne opcje wegańskie. Rodzinna firma serwująca dania kuchni orientalnej. Weganie mogą zjeść ryż jaśminowy lub makaron sojowy smażony z warzywami, sałatkę z kapusty pekińskiej, sałatkę z ogórka i czosnku, sałatkę wakame, sajgonki, bakłażana w cieście z sosem słodko-pikantnym, bakłażana w ostrym sosie hoisin lub w lekkim sosie sambalu, tofu duszone z warzywami, pikantne brokuły z czosnkiem. Czynne od poniedziałku do niedzieli w godzinach 12:00-21:00.",
+    "pictures": ["https://restaumatic-production.imgix.net/uploads/accounts/28064/media_library/b8289e87-ef1e-49f2-a611-313cd34c3cef.jpg?auto=compress&blur=0&crop=focalpoint&fit=max&fp-x=0.5&fp-y=0.5&h=auto&rect=0%2C0%2C1600%2C1067&w=1920"],
+    "website": "lees-chinese.pl",
+    "facebook": "https://www.facebook.com/lees.chinese.gdansk"
+  },
+  {
+    "placeId": 12,
+    "name": "Mitte - Chleb i Kawa - temporarily closed",
+    "address": "9 rue Monge, Paris, France, 75005",
+    "location": {
+      "lng": 18.64668972611885,
+      "lat": 54.343288072072234
+    },
+    "phone": "+48-984525652",
+    "thumbnail": "https://images.happycow.net/venues/1024/80/40/hcmp80402_177541.jpeg",
+    "type": "vegetarian",
+    "rating": 4.5,
+    "veg-option": 0,
+    "vegOnly": null,
+    "link": "https://www.happycow.net/reviews/happiz-paris-149572",
+    "description": "The second branch of this vegetarian pizzeria opened Jan 2019. Features create-your-own pizzas. Offers mock meats (ham, merguez, salami, chorizo), beyond meat steak pieces, and a variety of fresh vegetable toppings. Has vegan mozzarella cheese. For dessert try the chocolate mousse pot or vegan tiramisu. Open Mon-Sat 11:30-14:30, 18:30-22:30, Sun 11:30-22:30. Closed Mon.",
+    "pictures": [""],
+    "website": "chlebikawa.pl",
+    "facebook": "https://www.facebook.com/ChlebiKawa"
+  },
+  {
+    "placeId": 13,
+    "name": "Patison",
+    "address": "Targ Sienny 7 (w Centrum Handlowym Forum), Gdańsk, Polska, 80-806",
+    "location": {
+      "lng": 18.64349481077777,
+      "lat": 54.3494960494046
+    },
+    "phone": "+48-511427665",
+    "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-s/16/1f/37/2d/shish-kebab.jpg",
+    "type": "vegetarian",
+    "category": 0,
+    "rating": 4,
+    "description": "Serwuje mięso, dostępne opcje wegańskie. Food truck przekształcony w restaurację z oddzielnym menu wegetariańskim. Serwuje fast food: burgery, falafele, frytki, sałatki, przekąski. Czynne od poniedziałku do niedzieli w godzinach 11:00-21:00.",
+    "pictures": ["https://scontent-waw1-1.xx.fbcdn.net/v/t39.30808-6/408748288_360095479959205_2907224053589386936_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=783fdb&_nc_ohc=go7rZYEvhtgAX9nAli5&_nc_ht=scontent-waw1-1.xx&oh=00_AfAlwXYWJor2jy7q0nAUMLvOUFWxEqUXVUfAgUzhoVRybw&oe=65BCB1EA"],
+    "website": "patisonfoodtruck.pl",
+    "facebook": "https://www.facebook.com/niemiesny"
+  },
+  {
+    "placeId": 14,
+    "name": "Vega Resto",
+    "address": "27 Boulevard Davout, Paris, France, 75020",
+    "location": {
+    "lng": 18.586833090334905,
+    "lat": 54.37796437569846
+    },
+    "phone": "+48-226261297",
+    "thumbnail": "https://images.happycow.net/venues/1024/71/41/hcmp71418_132215.jpeg",
+    "type": "vegan",
+    "category": 0,
+    "rating": 5,
+    "description": "vegan cafe est. MAY 2017 at 27 Boulevard Davout. Offers breakfast, lunch and dinner menu of international dishes. Open Tue-Sun 12:00pm-3:00pm, 7:00pm-11:00pm.",
+    "pictures": [""],
+    "website": "https://vega for life.pl",
+    "facebook": "https://www.facebook.com/VegaResto"
+  },
+  {
+    "placeId": 15,
+    "name": "Czarna Owca - Aleja",
+    "address": " aleja Grunwaldzka 82/3,  80-244 Gdańsk",
+    "location": {
+    "lng": 18.609500863202612,
+    "lat": 54.38205307449853
+    },
+    "phone": "+48-519902424",
+    "thumbnail": "https://images.happycow.net/venues/1024/60/34/hcmp60349_412334.jpeg",
+    "type": "vegan",
+    "category": 0,
+    "rating": 4,
+    "vegOnly": 1,
+    "link": "https://www.happycow.net/reviews/ciastkarnia-czarna-owca.pl",
+    "description": "Cukiernia wegańska oferująca ciasta, ciasteczka, tarty, serniki, lody, a także kawę i herbatę. Czynne od poniedziałku do niedzieli w godzinach 10:00-20:00.",
+    "pictures": ["https://scontent-waw1-1.xx.fbcdn.net/v/t39.30808-6/408748288_360095479959205_2907224053589386936_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=783fdb&_nc_ohc=go7rZYEvhtgAX9nAli5&_nc_ht=scontent-waw1-1.xx&oh=00_AfAlwXYWJor2jy7q0nAUMLvOUFWxEqUXVUfAgUzhoVRybw&oe=65BCB1EA"],
+    "website": "http://czarnaowcagdansk.pl/",
+    "facebook": "https://www.facebook.com/Czarna-Owca-Aleja-114670240477136"
+  },
+  {
+    "placeId": 16,
+    "name": "Rong He",
+    "address": "Mila 2, Gdansk, Poland, 80-232",
+    "location": {
+    "lng": 18.652049180763132,
+    "lat": 54.3751241055885
+    },
+    "phone": "+48-609497976",
+    "thumbnail": "https://images.happycow.net/venues/1024/57/73/hcmp57731_197831.jpeg",
+    "type": "veg-options",
+    "category": 1,
+    "rating": 4.5,
+    "veg-options": 1,
+    "description": "veg restaurant, opened May 2014; previously located on ul. Dluga. Offers an all-you-can-eat buffet. Cved lunch Mon-Fri 11:30am-3:30pm. Tea and water ame with the meal. Confirmed closed December 2017. In 2021 a 100% vegetarian owed restaurant uploaded pictures of Rong He's food amp;  amp; amp; ; ", " pictures": [""],
+    "website": "http://www.rogalik.eu-gdansk.pl"
+
+,
+    "facebook": "https://www.facebook.com/VegaResto"
+  },
+  {
+    "placeId": 17,
+    "name": "Samui",
+    "address": " 4 Korzenna,80-846 Gdańsk",
+    "location": {
+    "lng": 18.66584515315995,
+    "lat": 54.34887934274397
+    },
+    "phone": "+48-504081932",
+    "thumbnail": "https://images.happycow.net/venues/1024/55/80/hcmp55803_195371.jpeg",
+    "type": "veg-options",
+    "category": 0,
+    "rating": 4.5,
+    "veg-options": 1,
+    "link": "https://www.happycow.net/reviews/samui-gdansk-145116",
+    "description": "veg restaurant with six-course Tasting Menu with Wine Pairing. Open Wed-Sat 6:30pm-9:30pm, Sun 6:30pm-9:00pm. Closed Mon, Tue.",
+    "pictures": ["https://scontent-waw1-1.xx.fbcdn.net/v/t39.30808-6/408748288_360095479959205_2907224053589386936_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=783fdb&_nc_ohc=go7rZYEvhtgAX9nAli5&_nc_ht=scontent-waw1-1.xx&oh=00_AfAlwXYWJor2jy7q0nAUMLvOUFWxEqUXVUfAgUzhoVRybw&oe=65BCB1EA",
+    "https://images.happycow.net/venues/1024/55/80/hcmp55803_195371.jpeg"],
+    "website": "https://sowagoda.pl"
+,
+    "facebook": "https://www.facebook.com/SamuiGdansk"
+  },
+  {
+    "placeId": 18,
+    "name": "Patio"
+,
+    "address": "ul. Powroznicza 19, Gdansk, Poland, 80-822",
+    "location": {
+    "lng": 18.664070248670853,
+    "lat": 54.34941357666172
+    },
+    "phone": "+48-727349585",
+    "thumbnail": "https://images.happycow.net/venues/1024/51/27/hcmp51275_196482.jpeg",
+    "type": "veg-options",
+    "category": 1,
+    "rating": 5,
+    "veg-options": 1,
+    "description": "veg restaurant. Confirmed open, May 2021. Call for hours - tell us.", " pictures": ["https://scontent-waw1-1.xx.fbcdn.net/v/t39.30808-6/408748288_360095479959205_2907224053589386936_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=783fdb&_nc_ohc=go7rZYEvhtgAX9nAli5&_nc_ht=scontent-waw1-1.xx&oh=00_AfAlwXYWJor2jy7q0nAUMLvOUFWxEqUXVUfAgUzhoVRybw&oe=65BCB1EA",
+    "https://images.happycow.net/venues/1024/51/27/hcmp51275_196482.jpeg"],
+    "website": "https://restauracjapatio.g2a.pl/"
+,
+    "facebook": "https://www.facebook.com/SamuiGdansk"
+  },
+  {
+    "placeId": 19,
+    "name": "Green Way",
+    "address": "ul. 4 Lecia 8,80-435 Gdańsk",
+    "location": {
+    "lng": 
+    18.61827122784424,
+    "lat": 54.38630868270386
+    },
+    "phone": "+48-582036363",
+    "thumbnail": "https://images.happycow.net/venues/1024/37/10/hcmp37104_148136.jpeg",
+    "type": "veg-options",
+    "category": 1,
+    "rating": 4,
+    "veg-options": 1,
+    "description": "veg fast food chain; this est. at ul. 4 Lecia 8. Offers a variety of vegetable and cereal-based amp; amp; amp; ; ", " pictures": [""],
+    "website": "https://www.happycow.net/reviews/green-way-gdansk-116688",
+    "facebook": "https://www.facebook.com/GreenWayPolska"
+  },
+  {
+    "placeId": 20,
+    "name": "Krowarzywa - Nadba"
+    ,
+    "address": " 1 Kniaziewicza 16,80-452 Gdańsk",
+    "location": {
+    "lng": 18.579705585318484,
+    "lat": 54.39608340834912
+    },
+    "phone": "+48-536975357",
+    "thumbnail": "https://images.happycow.net/venues/1024/36/33/hcmp36332_132224.jpeg",
+    "type": "vegan",
+    "category": 1,
+    "rating": 5,
+    "description": "veg restaurant est. 2019 serving vegan burgers and more; Nadba branch. Confirmed open, Dec 2019. The entrance is at the back, and it's tucked behind some other buildingsserve", " pictures": ["https://scontent-waw1-1.xx.fbcdn.net/v/t39.30808-6/408748288_360095479959205_2907224053589386936_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=783fdb&_nc_ohc=go7rZYEvhtgAX9nAli5&_nc_ht=scontent-waw1-1.xx&oh=00_AfAlwXYWJor2jy7q0nAUMLvOUFWxEqUXVUfAgUzhoVRybw&oe=65BCB1EA",
+    "https://images.happycow.net/venues/1024/36/33/hcmp36332_132224.jpeg"],
+    "website": "https://krowarzywa.pl/"
+,
+    "facebook": "https://www.facebook.com/krowarzywa"
+  }
+]
+
